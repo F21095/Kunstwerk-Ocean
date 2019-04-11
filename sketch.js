@@ -28,8 +28,8 @@ function draw() {
   wolk(0, 0);
   wolk(280, -10);
 
-  text(mouseX, 50, 50);
-  text(mouseY, 50, 100);
+  //text(mouseX, 50, 50);
+  //text(mouseY, 50, 100);
 
     
    visje(gPos,wPos-30,255, 255, 102);

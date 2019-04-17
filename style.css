@@ -1,10 +1,12 @@
 html, body {
   margin: 0;
   padding: 0;
+  backgroundcolor: lightblue;
 }
 canvas {
   display: block;
 }
+
 
 p {
   font-family: verdana;

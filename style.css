@@ -22,4 +22,11 @@ h1 {
   border-style: dotted;
   border-width: 2px;
 }
+h1 {
+  text-align: center;
+}
+
+p {  text-align: center;
+}
+
 

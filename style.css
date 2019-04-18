@@ -5,6 +5,7 @@ html, body {
 }
 canvas {
   display: block;
+  align: auto;
 }
 
 
@@ -27,9 +28,6 @@ h1 {
 }
 
 p {  text-align: center;
-}
-
-sketch.js { center;
 }
 
 

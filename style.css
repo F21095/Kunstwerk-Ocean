@@ -32,3 +32,10 @@ p {  text-align: center;
 }
 
 
+p2 {  text-align: center;
+}
+
+p2 {
+  font-family: verdana;
+  font-size: 20px;
+}
